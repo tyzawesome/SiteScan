@@ -17,14 +17,12 @@ This tool is for educational purposes ONLY.
 Running the Program
 
     Clone the Repository:
+    git clone https://github.com/tyzawesome/SiteScan.git
+    cd SiteScan
+Build the Program: 
 
-git clone https://github.com/tyzawesome/SiteScan.git
-cd SiteScan
-
-Build the Project:
-
-dotnet build
-
+    dotnet build
+        
 Run the Scanner:
 
     dotnet run
